@@ -1,5 +1,5 @@
 public abstract class ItemFabric {
-    public void openRewgard(){
+    public void openReward() {
         iGameItem gameItem = createItem();
 
         gameItem.open();
